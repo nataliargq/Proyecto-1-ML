@@ -1,0 +1,99 @@
+﻿Line,From,To,TP
+3,Terminal CAPU,Boulevard Norte,5.24
+3,Boulevard Norte,Hidalgo,4.78
+3,Hidalgo,Unión,4.79
+3,Unión,China Poblana,5.07
+3,China Poblana,Santa María,4.88
+3,Santa María,San Antonio,4.84
+3,San Antonio,Xanenetla,5.10
+3,Xanenetla,San Francisco,4.90
+3,San Francisco,Analco,5.18
+3,Analco,Clinica 2,5.12
+3,Clinica 2,Niños Heroes,5.13
+3,Niños Heroes,Fiscalia,4.60
+3,Fiscalia,Parque Juárez,5.00
+3,Parque Juárez,16 de Septiembre,4.93
+3,16 de Septiembre,Capitan Carlos Camacho Espiritu,4.67
+3,Capitan Carlos Camacho Espiritu,Cristal,5.37
+3,Cristal,Bomberos,5.36
+3,Bomberos,San Baltazar,5.39
+3,San Baltazar,Margaritas,4.82
+3,Margaritas,CU BUAP,4.88
+3,CU BUAP,Biblioteca Central,4.79
+3,Biblioteca Central,Las Torres,4.75
+3,Las Torres,Xilotzingo,4.78
+3,Xilotzingo,Arboledas,4.94
+3,Arboledas,La Fragua,5.11
+3,La Fragua,La Fragua,0
+1,Emiliano Zapata,Carmen Serdán,4.93
+1,Carmen Serdán,Casa de Ángeles,5.03
+1,Casa de Ángeles,Hospital del Niño Poblano,5.27
+1,Hospital del Niño Poblano,Estrellas del Sur,5.04
+1,Estrellas del Sur,Las Ánimas I y II,5.20
+1,Las Ánimas I y II,25 Poniente,4.94
+1,25 Poniente,Matamoros,4.90
+1,Matamoros,Defensores de la República,4.98
+1,Defensores de la República,18 Poniente,4.71
+1,18 Poniente,Pestalozzi,4.91
+1,Pestalozzi,Santa Anita,5.54
+1,Santa Anita,Constitución de 1917,5.20
+1,Constitución de 1917,El Rayito,4.69
+1,El Rayito,China Poblana,5.48
+1,China Poblana,Los Lavaderos,5.13
+1,Los Lavaderos,Puente Zaragoza,4.46
+1,Puente Zaragoza,Ignacio Zaragoza,4.82
+1,Ignacio Zaragoza,Los Fuertes,5.30
+1,Los Fuertes,Tecnológico,4.88
+1,Tecnológico,La Ciénega,5.36
+1,La Ciénega,18 de Noviembre,4.48
+1,18 de Noviembre,La Resurrección,5.62
+1,La Resurrección,Universidad Tecnológica,4.82
+1,Universidad Tecnológica,Rivera Anaya,4.97
+1,Rivera Anaya,Amalucan,5.18
+1,Amalucan,Galaxia,4.69
+1,Galaxia,El Pilar,4.67
+1,El Pilar,Santa Mago,5.36
+1,Santa Mago,Mixatlac,4.95
+1,Mixatlac,Chachapa,4.51
+1,Chachapa,Juárez Serdán,5.07
+1,Juárez Serdán,Terminal Tlaxcalancingo,5.29
+1,Terminal Tlaxcalancingo,Terminal Chachapa,5.16
+1,Terminal Chachapa,Hermanos Serdán,5.22
+1,Hermanos Serdán,San Alejandro,4.91
+1,San Alejandro,Bosques,5.21
+1,Bosques,La Rosa,4.30
+1,La Rosa,La Rosa,0
+2,Diagonal Oriente,Diagonal Poniente,4.98
+2,Diagonal Poniente,Esperanza,5.09
+2,Esperanza,Héroes,5.10
+2,Héroes,Mercado de Sabores,5.32
+2,Mercado de Sabores,Héroes de la Reforma,5.00
+2,Héroes de la Reforma,Revolución,4.54
+2,Revolución,Espinosa Yglesias,4.44
+2,Espinosa Yglesias,Panteones,5.40
+2,Panteones,Juan Pablo II,5.22
+2,Juan Pablo II,Río Atoyac,4.60
+2,Río Atoyac,IMSS,4.49
+2,IMSS,Tecamachalco,5.05
+2,Tecamachalco,Tarascos,5.05
+2,Tarascos,Yucatán,5.17
+2,Yucatán,Periférico,4.79
+2,Periférico,C.C. Centro Sur,4.78
+2,C.C. Centro Sur,Pino Suárez,5.10
+2,Pino Suárez,Azaleas,5.39
+2,Azaleas,Tabachines,4.79
+2,Tabachines,Terminal Margaritas,5.15
+2,Terminal Margaritas,Independencia,5.02
+2,Independencia,Olivos,5.34
+2,Olivos,San Bartolo,5.52
+2,San Bartolo,Torrecillas,5.17
+2,Torrecillas,Club de Golf,5.11
+2,Club de Golf,Cúmulo de Virgo,4.98
+2,Cúmulo de Virgo,Alpha,5.74
+2,Alpha,Santiago,5.08
+2,Santiago,Paseo Bravo,5.48
+2,Paseo Bravo,Museo del Ferrocarril,5.05
+2,Museo del Ferrocarril,Limones,4.98
+2,Limones,Zaragoza,5.15
+2,Zaragoza,Niño Poblano,5.38
+2,Niño Poblano,Niño Poblano,5.38
